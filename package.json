@@ -1,0 +1,27 @@
+{
+  "name": "parcel-learning",
+  "version": "1.0.0",
+  "description": "setting up React project with Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingyumkim93/parcel-learning.git"
+  },
+  "author": "Mingyum Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingyumkim93/parcel-learning/issues"
+  },
+  "homepage": "https://github.com/mingyumkim93/parcel-learning#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
