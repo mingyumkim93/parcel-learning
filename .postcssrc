@@ -1,0 +1,12 @@
+{
+    "modules": true,
+    "plugins":{
+        "autoprefixer":{
+            "`overrideBrowserslist`":[
+                "> 1%",
+                "Last 2 version",
+                "IE 10"
+            ]
+        }
+    }
+}
